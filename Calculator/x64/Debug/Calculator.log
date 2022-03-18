@@ -1,0 +1,54 @@
+﻿  Calculator.cpp
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(40,32): error C2059: syntax error: ']'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(40,45): error C2059: syntax error: ')'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(41,16): error C2059: syntax error: ';'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(44,3): error C2046: illegal case
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(45,32): error C2059: syntax error: ']'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(45,45): error C2059: syntax error: ')'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(46,16): error C2059: syntax error: ';'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(15): error C2317: 'try' block starting on line '15' has no catch handlers
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(49,3): error C2046: illegal case
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(51,32): error C2059: syntax error: ']'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(51,45): error C2059: syntax error: ')'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(52,16): error C2059: syntax error: ';'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(54,4): error C2059: syntax error: 'break'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(55,3): error C2059: syntax error: 'case'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,4): error C2059: syntax error: 'for'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,4): error C2143: syntax error: missing ')' before ';'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,22): error C2143: syntax error: missing ';' before '<'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,43): error C2143: syntax error: missing ';' before '++'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,42): error C2086: 'int i': redefinition
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56): message : see declaration of 'i'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,45): error C2059: syntax error: ')'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,47): error C2143: syntax error: missing ';' before '{'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56,47): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(59,4): error C2059: syntax error: 'break'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(60,3): error C2059: syntax error: 'case'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,4): error C2059: syntax error: 'for'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,4): error C2143: syntax error: missing ')' before ';'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,22): error C2143: syntax error: missing ';' before '<'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,20): error C2086: 'int i': redefinition
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56): message : see declaration of 'i'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,43): error C2143: syntax error: missing ';' before '++'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,42): error C2086: 'int i': redefinition
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(56): message : see declaration of 'i'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,45): error C2059: syntax error: ')'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,47): error C2143: syntax error: missing ';' before '{'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(61,47): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(64,4): error C2059: syntax error: 'break'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(65,3): error C2059: syntax error: '}'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(65,3): error C2143: syntax error: missing ';' before '}'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(67,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(67,2): error C2059: syntax error: '}'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(68,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(68,22): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(74,2): error C2059: syntax error: 'return'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(75,1): error C2059: syntax error: '}'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(75,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(77,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(77,22): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\braul\OneDrive\Documents\Programming Stuff\repos\CPP_Calc\CPP_Calc\Calculator\Calculator.cpp(93,6): warning C4129: 'S': unrecognized character escape sequence
