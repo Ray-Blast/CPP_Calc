@@ -5,7 +5,27 @@
 #include <string>
 
 using namespace std;
+//need to finish adding the rest of the logic
+auto sum(float nums[]) {
+	float output = 0;
+	for (int i = 0; i < sizeof(nums); i++) {
+		output += nums[i];
 
+	}
+
+
+	return output;
+}
+
+auto subtract(int nums[]) {
+	int output = nums[0];
+
+	for (int i = 1; i < sizeof(nums); i++) {
+		output -= nums[i];
+
+	}
+	return output;
+}
 float calculate(char inEquation) {
 
 	string inNums[64];
@@ -21,9 +41,9 @@ float calculate(char inEquation) {
 				break;
 			}
 			else  {
-				if (!isdigit(stoi(inNums[i]))) {
+				if ((isdigit(stoi(inNums[i]))) == false) { //logic not working, need to fix
 
-					throw (inNums);
+					throw exception("Invalid");
 					break;
 				}
 				else {
@@ -37,30 +57,15 @@ float calculate(char inEquation) {
 		switch (inEquation)
 		{
 		case 'a':
-			for (int i = 0; i < fullNum[].size(); i++) {
-				output += i;
-			}
+			sum(fullNum);
 			break;
 		case's':
-			for (int i = 0; i < fullNum[].size(); i++) {
-				output += i;
-			}
 			break;
 		case 'm':
-
-			for (int i = 0; i < fullNum[].size(); i++) {
-				output += i;
-			}
 			break;
 		case 'd':
-			for (int i = 0; i < fullNum[].size(); i++) {
-				output += i;
-			}
 			break;
 		case '%':
-			for (int i = 0; i < fullNum[].size(); i++) {
-				output += i;
-			}
 			break;
 		}
 
@@ -74,12 +79,6 @@ float calculate(char inEquation) {
 	return 0;
 }
 
-auto sum(int nums[]) {
-
-
-
-	return 0;
-}
 
 int main()
 {
@@ -90,7 +89,7 @@ int main()
 	//get input on type of equation
 	//switch based on equation type
 	cout << "Calculation Types:\n"
-		<< "Addition: (+)\Subtraction: (-)\nMultiplication: (*)\nDivision: (/)\nModolo: (M%)\n" << endl;
+		<< "Addition: (+)\nSubtraction: (-)\nMultiplication: (*)\nDivision: (/)\nModolo: (M%)\n" << endl;
 	cout << "Please enter the type of equation you'd like: " << endl;
 	cin >> calcType;
 	try {
